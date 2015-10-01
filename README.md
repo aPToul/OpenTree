@@ -1,9 +1,7 @@
 # OpenLeaf
 
-The goal of this project is to identify opportunities for utilizing natural language processing and information retrieval methods to improve knowledge sharing activities among teams.
+The goal of this project is to identify opportunities for utilizing natural language processing and information retrieval methods to improve knowledge sharing. By studying teamwork and current techniques for producing automatic Wikis, I hope to improve the way we share information.
 
-I am mining and analyzing Wikipedia discussions and edit histories to understand how people work when producing documentation. 
+I am mining and analyzing Wikipedia discussions and edit histories to understand how people work when producing documentation. In particular, I am interested if shared ideas tend to merge and be refined, or if a single editor dominates a specific subsection.
 
-In particular, I am interested if shared ideas tend to merge and be refined, or if a single editor dominates a specific subsection. This would have implications for the usefulness of sharing views on the same idea.
-
-I am also interested in detecting issues like biased sentences by constructing an information retrieval framework based on past sentences flagged with bias. This could optimize current proof reading practice.
+I am also interested in detecting issues like change in tone and biased sentences by constructing an information retrieval framework based on past sentences flagged on Wikipedia. This could optimize current proof reading practice.
