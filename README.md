@@ -1,6 +1,7 @@
 # OpenLeaf
 
-About:
-- Studying past Wikipedia edits and discussions to understand how communities self-organize to develop documentation
-- Identifying opportunities for natural language processing and information retrieval to improve idea sharing
-- Approaching malicious activity and bias detection in a novel way by utilizing information retrieval context determination
+I am mining and analyzing Wikipedia discussions and edit histories to understand how communities self-organize to develop documentation.
+
+The goal of this project is to identify opportunities for utilizing natural language processing and information retrieval methods to improve knowledge sharing activities among teams.
+
+I am also interested in detecting biased sentences by constructing an information retrieval framework based on past sentences flagged with bias.
