@@ -1,6 +1,6 @@
 # OpenLeaf
 
-I am mining and analyzing Wikipedia discussions and edit histories to understand how communities self-organize to develop documentation.
+I am mining and analyzing Wikipedia discussions and edit histories to understand how communities self-organize when developing documentation.
 
 The goal of this project is to identify opportunities for utilizing natural language processing and information retrieval methods to improve knowledge sharing activities among teams.
 
